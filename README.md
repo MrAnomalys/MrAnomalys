@@ -2,6 +2,7 @@
 - 👀 I’m interested in Lua!
 My original language is spanish but my english is very bad...
 Programming:
-![image](https://github.com/MrAnomalys/MrAnomalys/assets/153665428/c909292f-900c-46a4-800b-dbd6921067b1)
-![image](https://github.com/MrAnomalys/MrAnomalys/assets/153665428/fb1263dd-5947-431d-9377-c2839fd37935)
+![image](https://github.com/MrAnomalys/MrAnomalys/assets/153665428/70dfb444-a971-4b6e-be03-c2b747978ed9)
+
+![image](https://github.com/MrAnomalys/MrAnomalys/assets/153665428/eabcaab1-1be4-4e05-a71c-d10d0d7d1d5f)
 
